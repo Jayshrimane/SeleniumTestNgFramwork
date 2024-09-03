@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T11:46:15 IST" name="Suite" finished-at="2024-09-03T11:46:35 IST" duration-ms="20143">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T11:46:15 IST" name="Test" finished-at="2024-09-03T11:46:35 IST" duration-ms="20143">
+      <class name="Testcases.VerifyRegistation">
+        <test-method is-config="true" signature="extenReprort()[pri:0, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:15 IST" name="extenReprort" finished-at="2024-09-03T11:46:15 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extenReprort -->
+        <test-method is-config="true" signature="launchBrowserAndOpenURl()[pri:0, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:15 IST" name="launchBrowserAndOpenURl" finished-at="2024-09-03T11:46:18 IST" duration-ms="3101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndOpenURl -->
+        <test-method signature="verifyRegisterationWithValidData()[pri:1, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:18 IST" name="verifyRegisterationWithValidData" finished-at="2024-09-03T11:46:23 IST" duration-ms="4644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterationWithValidData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:23 IST" name="closeBrowser" finished-at="2024-09-03T11:46:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowserAndOpenURl()[pri:0, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:23 IST" name="launchBrowserAndOpenURl" finished-at="2024-09-03T11:46:26 IST" duration-ms="2677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndOpenURl -->
+        <test-method signature="VerifyregistationBlankdata()[pri:2, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:26 IST" name="VerifyregistationBlankdata" finished-at="2024-09-03T11:46:27 IST" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyregistationBlankdata -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:27 IST" name="closeBrowser" finished-at="2024-09-03T11:46:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="endReprortCode()[pri:0, instance:Testcases.VerifyRegistation@5158b42f]" started-at="2024-09-03T11:46:35 IST" name="endReprortCode" finished-at="2024-09-03T11:46:36 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReprortCode -->
+      </class> <!-- Testcases.VerifyRegistation -->
+      <class name="Testcases.VerifyLogin">
+        <test-method is-config="true" signature="launchBrowserAndOpenURl()[pri:0, instance:Testcases.VerifyLogin@35cabb2a]" started-at="2024-09-03T11:46:27 IST" name="launchBrowserAndOpenURl" finished-at="2024-09-03T11:46:29 IST" duration-ms="2442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndOpenURl -->
+        <test-method signature="verifyLoginWithValidData()[pri:1, instance:Testcases.VerifyLogin@35cabb2a]" started-at="2024-09-03T11:46:29 IST" name="verifyLoginWithValidData" finished-at="2024-09-03T11:46:31 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidData -->
+        <test-method is-config="true" signature="launchBrowserAndOpenURl()[pri:0, instance:Testcases.VerifyLogin@35cabb2a]" started-at="2024-09-03T11:46:31 IST" name="launchBrowserAndOpenURl" finished-at="2024-09-03T11:46:34 IST" duration-ms="2442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndOpenURl -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testcases.VerifyLogin@35cabb2a]" started-at="2024-09-03T11:46:31 IST" name="closeBrowser" finished-at="2024-09-03T11:46:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method signature="verifyLoginWithInValidData()[pri:2, instance:Testcases.VerifyLogin@35cabb2a]" started-at="2024-09-03T11:46:34 IST" name="verifyLoginWithInValidData" finished-at="2024-09-03T11:46:35 IST" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testcases.VerifyLogin@35cabb2a]" started-at="2024-09-03T11:46:35 IST" name="closeBrowser" finished-at="2024-09-03T11:46:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testcases.VerifyLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
